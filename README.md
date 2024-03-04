@@ -1,5 +1,8 @@
 <div align="center">    
- 
+
+# Implementing GeoCLIP for re-training and results replication.
+
+
 # 🌎 GeoCLIP: Clip-Inspired Alignment between Locations and Images for Effective Worldwide Geo-localization
 
 [![Paper](http://img.shields.io/badge/paper-arxiv.2309.16020-B31B1B.svg)](https://arxiv.org/abs/2309.16020v2)
